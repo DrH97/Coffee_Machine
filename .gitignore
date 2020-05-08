@@ -1,0 +1,39 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Balance checker/out/
+/Problems/Balance checker/out/production/classes/
+/Problems/Boys in the sport class/out/
+/Problems/Boys in the sport class/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Compare Latin letters/out/
+/Problems/Compare Latin letters/out/production/classes/
+/Problems/Currency comparision/out/
+/Problems/Currency comparision/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/Maximum element divisible by 4/out/
+/Problems/Maximum element divisible by 4/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Read and print/out/
+/Problems/Read and print/out/production/classes/
+/Problems/Sequence/out/
+/Problems/Sequence/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The eternal truth/out/
+/Problems/The eternal truth/out/production/classes/
+/Problems/The largest element/out/
+/Problems/The largest element/out/production/classes/
+/Problems/The number of tens/out/
+/Problems/The number of tens/out/production/classes/
